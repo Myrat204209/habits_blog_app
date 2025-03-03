@@ -1,7 +1,3 @@
-# habits_blog_app
-The Habits Blog App is a Flutter-powered application that offers an engaging platform to explore and understand various habits. 
-
-
 # Habits Blog App
 
 Welcome to the **Habits Blog App** repository! This Flutter-based application is crafted to empower users in exploring, understanding, and transforming their habits. Whether you're here to learn more about habit formation or to contribute to a dynamic project, you're in the right place.
@@ -33,5 +29,5 @@ Welcome to the **Habits Blog App** repository! This Flutter-based application is
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/yourusername/habits-blog-app.git
+   git clone https://github.com/Myrat204209/habits-blog-app.git
    cd habits-blog-app
